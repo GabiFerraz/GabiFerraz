@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-### I'm Gabriela Ferraz, full stack web development student! 😋👩‍💻
+### I'm Gabriela Ferraz, Full Stack Web Development Student! 😋👩‍💻
 
 <div align="center">
   <a href="https://github.com/GabiFerraz">
