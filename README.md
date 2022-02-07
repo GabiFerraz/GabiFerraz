@@ -1,6 +1,5 @@
-## Hi there! 👋
-## Welcome to my profile! 🤗
-### I'm Gabriela Ferraz, Full Stack Web Development Student! 😋👩‍💻
+## Hi there, welcome to my profile!! 👋🤗
+I'm Gabriela Ferraz, Full Stack Web Development Student! 😋👩‍💻
 
 <br>
 
