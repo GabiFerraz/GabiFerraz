@@ -27,7 +27,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3> 💻 Languages, Technologies and Tools: </h3>
+  <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
   <img align="center" alt="Gabi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gabi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Gabi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
