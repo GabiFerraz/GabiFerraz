@@ -1,4 +1,4 @@
-<h1 align="center"> ## Hi there, I'm Gabriela Ferraz!!! 👋🤗</h1>
+<h1 align="center"> Hi there, I'm Gabriela Ferraz!!! 👋🤗</h1>
 <h3 align="center">🚀 | Front-End Developer | 🚀</h3>
 
 <div>
@@ -35,7 +35,6 @@
   <img align="center" alt="Gabi-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Gabi-Jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Gabi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="Gabi-Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Gabi-Git" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Gabi-VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Gabi-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
