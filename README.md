@@ -2,7 +2,7 @@
 <h3 align="center">🚀 | Front-End Developer | 🚀</h3>
 
 <div>
-<img width = "40%" align="right" alt="PIC" height="25%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
+<img align="right" alt="Gabi-pic" height="280" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86019539/146981202-ec7a8177-54d0-4f9c-8d91-893c9e19f0a6.png">
 <div align="left"> 
   <h3> :woman_technologist: About Me: </h3>
 
@@ -15,17 +15,6 @@
 </div> 
 </div> 
 
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/GabiFerraz">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GabiFerraz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiFerraz&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
 <div style="display: inline_block"><br>
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
   <img align="center" alt="Gabi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
@@ -37,9 +26,15 @@
   <img align="center" alt="Gabi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png">
   <img align="center" alt="Gabi-Git" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Gabi-VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Gabi-Figma" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
-  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86019539/146981202-ec7a8177-54d0-4f9c-8d91-893c9e19f0a6.png">
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/GabiFerraz">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GabiFerraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiFerraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
