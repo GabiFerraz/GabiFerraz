@@ -17,15 +17,15 @@
 
 <div style="display: inline_block"><br>
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
-  <img align="center" alt="Gabi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/breno5g/breno5g/main/assets/file_type_html_icon_130541.svg">
-  <img align="center" alt="Gabi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/breno5g/breno5g/main/assets/file_type_css_icon_130661.svg">
-  <img align="center" alt="Gabi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gabi-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Gabi-Jest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Gabi-RTL" height="50" width="60" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="Gabi-Git" height="90" width="60" src="https://raw.githubusercontent.com/breno5g/breno5g/main/assets/file_type_git_icon_130581.svg">
-  <img align="center" alt="Gabi-VsCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Gabi-HTML" height="50" width="60" src="./assets/html_icon.svg">
+  <img align="center" alt="Gabi-CSS" height="50" width="60" src="./css_icon.svg">
+  <img align="center" alt="Gabi-Js" height="50" width="60" src="./javascript_icon.svg">
+  <img align="center" alt="Gabi-React" height="50" width="60" src="./react_icon.svg">
+  <img align="center" alt="Gabi-Redux" height="50" width="60" src="./redux_icon.svg">
+  <img align="center" alt="Gabi-Jest" height="50" width="60" src="./jest_icon.svg">
+  <img align="center" alt="Gabi-RTL" height="50" width="60" src="./rtl.png">
+  <img align="center" alt="Gabi-Git" height="90" width="60" src="./git_icon.svg">
+  <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./vscode_icon.svg">
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
 </div>
 
