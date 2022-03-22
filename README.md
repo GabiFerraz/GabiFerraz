@@ -18,14 +18,14 @@
 <div style="display: inline_block"><br>
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
   <img align="center" alt="Gabi-HTML" height="50" width="60" src="./assets/html_icon.svg">
-  <img align="center" alt="Gabi-CSS" height="50" width="60" src="./css_icon.svg">
-  <img align="center" alt="Gabi-Js" height="50" width="60" src="./javascript_icon.svg">
-  <img align="center" alt="Gabi-React" height="50" width="60" src="./react_icon.svg">
-  <img align="center" alt="Gabi-Redux" height="50" width="60" src="./redux_icon.svg">
-  <img align="center" alt="Gabi-Jest" height="50" width="60" src="./jest_icon.svg">
-  <img align="center" alt="Gabi-RTL" height="50" width="60" src="./rtl.png">
-  <img align="center" alt="Gabi-Git" height="90" width="60" src="./git_icon.svg">
-  <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./vscode_icon.svg">
+  <img align="center" alt="Gabi-CSS" height="50" width="60" src="./assets/css_icon.svg">
+  <img align="center" alt="Gabi-Js" height="50" width="60" src="./assets/javascript_icon.svg">
+  <img align="center" alt="Gabi-React" height="50" width="60" src="./assets/react_icon.svg">
+  <img align="center" alt="Gabi-Redux" height="50" width="60" src="./assets/redux_icon.svg">
+  <img align="center" alt="Gabi-Jest" height="50" width="60" src="./assets/jest_icon.svg">
+  <img align="center" alt="Gabi-RTL" height="50" width="60" src="./assets/rtl.png">
+  <img align="center" alt="Gabi-Git" height="90" width="60" src="./assets/git_icon.svg">
+  <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./assets/vscode_icon.svg">
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
 </div>
 
