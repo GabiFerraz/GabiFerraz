@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
   <img align="center" alt="Gabi-HTML" height="50" width="60" src="https://raw.githubusercontent.com/breno5g/breno5g/main/assets/file_type_html_icon_130541.svg">
-  <img align="center" alt="Gabi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Gabi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/breno5g/breno5g/main/assets/file_type_css_icon_130661.svg">
   <img align="center" alt="Gabi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Gabi-Redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
