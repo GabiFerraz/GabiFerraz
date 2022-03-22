@@ -6,7 +6,7 @@
 <div align="left"> 
   <h3> :woman_technologist: About Me: </h3>
 
-  - 🎓 &nbsp; I'm a Full Stack Web Development Student at Trybe! 👩‍💻 
+  - 🎓 &nbsp; I'm a Full Stack Web Development Student at <a href="https://www.betrybe.com/">Trybe</a>! 👩‍💻 
   - 💻 &nbsp; I'm learning about Back-End architectures.
   - 🐎 &nbsp; I'm an amazon, equestrian lover.
   - 💃 &nbsp; I'm a belly dancer.
