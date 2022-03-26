@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Gabriela Ferraz!!! 👋🤗</h1>
 <h3 align="center">🚀 | Front-End Web Developer | 🚀</h3>
-I love Rod
+
 <div>
 <img align="right" alt="Gabi-pic" height="280" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86019539/146981202-ec7a8177-54d0-4f9c-8d91-893c9e19f0a6.png">
 <div align="left"> 
