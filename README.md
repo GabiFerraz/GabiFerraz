@@ -27,8 +27,6 @@
   <img align="center" alt="Gabi-Git" height="90" width="60" src="./assets/git_icon.svg">
   <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./assets/vscode_icon.svg">
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
-</div>
-<div style="display: inline block">
   <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
 </div>
 
