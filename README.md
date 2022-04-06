@@ -30,10 +30,6 @@
   <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
 </div>
 
-<div style="display: inline block"><br>
-  <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
-</div>
-
 <br/>
 
 <div align="center">
