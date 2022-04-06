@@ -15,7 +15,7 @@
 </div> 
 </div> 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
   <img align="center" alt="Gabi-HTML" height="50" width="60" src="./assets/html_icon.svg">
   <img align="center" alt="Gabi-CSS" height="50" width="60" src="./assets/css_icon.svg">
@@ -27,6 +27,9 @@
   <img align="center" alt="Gabi-Git" height="90" width="60" src="./assets/git_icon.svg">
   <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./assets/vscode_icon.svg">
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
+</div>
+<div style="display: inline block">
+  <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
 </div>
 
 <br/>
