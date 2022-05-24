@@ -29,7 +29,7 @@
   <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
   <img align="center" alt="Gabi-MySQL" height="90" width="60" src="./assets/mysql-original.svg">
-  <img align="center" alt="Gabi-NodeJs" height="90" width="60" src="./assets/nodejs-original-wordmark.svg">
+  <img align="center" alt="Gabi-NodeJs" height="90" width="60" src="./assets/nodejs-original.svg">
 </div>
 
 <br/>
