@@ -8,6 +8,7 @@
 
   - 🎓 &nbsp; I'm a Full Stack Web Development Student at <a href="https://www.betrybe.com/">Trybe</a>! 👩‍💻 
   - 💻 &nbsp; I'm learning about Back-End architectures.
+  - 🦆 &nbsp; I'm learning from Gabriel Pato about ethical hacking and technologies to understand how vulnerabilities work and how to identify them in web applications in the <a href="https://sp.pato.academy">Pato Academy</a> course.
   - 🐎 &nbsp; I'm an amazon, equestrian lover.
   - 💃 &nbsp; I'm a belly dancer.
   - 🎶 &nbsp; I love music.
