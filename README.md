@@ -6,18 +6,18 @@
 <div align="left"> 
   <h3> :woman_technologist: About Me: </h3>
 
-  - 🎓 &nbsp; I'm a Back-End Developer at <a href="">Mercado Livre</a>! 👩‍💻 
-  - 💻 &nbsp; I'm specializing in Java architecture and development.
+  - 🎓 &nbsp; I'm a Back-End Developer at <a href="https://www.mercadolivre.com.br/">Mercado Livre</a>! 👩‍💻 
+  - 💻 &nbsp; I'm specializing in Java Architecture and Development at <a href="https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java/">FIAP</a>!
   - 🦆 &nbsp; I'm learning from Gabriel Pato about ethical hacking and technologies to understand how vulnerabilities work and how to identify them in web applications in the <a href="https://sp.pato.academy">Pato Academy</a> course.
-  - 🐎 &nbsp; I'm an amazon, equestrian lover.
+  - 🐎 &nbsp; I'm a horsewoman and equestrian lover.
   - 💃 &nbsp; I'm a belly dancer.
   - 🎶 &nbsp; I love music.
-  - ✈  &nbsp; I love to travel, I want to see the world.
+  - ✈  &nbsp; I love to travel and I want to see the world.
 </div> 
 </div> 
 
 <div style="display: inline_block">
-  <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
+  <h3> 💻 Languages, Technologies and Tools that I know, use and study: </h3>
   <img align="center" alt="Gabi-Java" height="50" width="60" src="./assets/JAVA.png">
   <img align="center" alt="Gabi-Spring" height="50" width="60" src="./assets/Spring-Dark.svg">
   <img align="center" alt="Gabi-Kotlin" height="50" width="60" src="./assets/KOTLIN.png">
