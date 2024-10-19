@@ -18,19 +18,18 @@
 
 <div style="display: inline_block">
   <h3> 💻 Languages, Technologies and Tools I know and Study: </h3>
-  <img align="center" alt="Gabi-HTML" height="50" width="60" src="./assets/html_icon.svg">
-  <img align="center" alt="Gabi-CSS" height="50" width="60" src="./assets/css_icon.svg">
-  <img align="center" alt="Gabi-Js" height="50" width="60" src="./assets/javascript_icon.svg">
-  <img align="center" alt="Gabi-React" height="50" width="60" src="./assets/react_icon.svg">
-  <img align="center" alt="Gabi-Redux" height="50" width="60" src="./assets/redux_icon.svg">
-  <img align="center" alt="Gabi-Jest" height="50" width="60" src="./assets/jest_icon.svg">
-  <img align="center" alt="Gabi-RTL" height="50" width="60" src="./assets/rtl.png">
+  <img align="center" alt="Gabi-Java" height="50" width="60" src="./assets/JAVA.png">
+  <img align="center" alt="Gabi-Spring" height="50" width="60" src="./assets/Spring-Dark.svg">
+  <img align="center" alt="Gabi-Kotlin" height="50" width="60" src="./assets/KOTLIN.png">
+  <img align="center" alt="Gabi-IntelliJ" height="50" width="60" src="./assets/Idea-Dark.svg">
+  <img align="center" alt="Gabi-Gradle" height="50" width="60" src="./assets/Gradle-Dark.svg">
+  <img align="center" alt="Gabi-Postman" height="90" width="60" src="./assets/Postman.svg">
+  <img align="center" alt="Gabi-MySQL" height="90" width="60" src="./assets/mysql-original.svg">
+  <img align="center" alt="Gabi-Mongo" height="50" width="60" src="./assets/MongoDB.svg">
+  <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
   <img align="center" alt="Gabi-Git" height="90" width="60" src="./assets/git_icon.svg">
   <img align="center" alt="Gabi-VsCode" height="50" width="60" src="./assets/vscode_icon.svg">
-  <img align="center" alt="Gabi-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
-  <img align="center" alt="Gabi-Docker" height="90" width="60" src="./assets/docker_icon.svg">
-  <img align="center" alt="Gabi-MySQL" height="90" width="60" src="./assets/mysql-original.svg">
-  <img align="center" alt="Gabi-NodeJs" height="90" width="60" src="./assets/nodejs-original.svg">
+  <img align="center" alt="Gabi-Linux" height="90" width="60" src="./assets/Linux-Dark.svg">
 </div>
 
 <br/>
